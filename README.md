@@ -108,3 +108,10 @@ YCbCr.601 в PC диапазоне: [0, 255].
   lab5.exe <input> <output> <sharpen>,
   где sharpen - параметр резкости в диапазоне [0..1] (вещественное значение).
   Входные/выходные данные: PNM P5 или P6 (RGB).
+
+input:
+![image](https://github.com/glebrogachyov/Image_Processing_algorithms/blob/main/images/moon.jpg?raw=true)
+
+output:
+![image](![image](https://user-images.githubusercontent.com/33635536/208260957-c778a8de-11bd-4b09-b7a3-cf5860e45f8f.png)
+)
