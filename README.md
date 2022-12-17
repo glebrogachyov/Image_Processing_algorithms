@@ -113,5 +113,4 @@ input:
 ![image](https://github.com/glebrogachyov/Image_Processing_algorithms/blob/main/images/moon.jpg?raw=true)
 
 output:
-![image](![image](https://user-images.githubusercontent.com/33635536/208260957-c778a8de-11bd-4b09-b7a3-cf5860e45f8f.png)
-)
+![image](https://github.com/glebrogachyov/Image_Processing_algorithms/blob/main/images/moon_res.jpg?raw=true)
